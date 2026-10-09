@@ -99,7 +99,7 @@ An application exploring collaboration between AI agents using a Streamlit inter
 💜 *Code • Learn • Build • Grow*
 
 </div>
-### ✨ Small steps every day lead to big results.
+ ✨ Small steps every day lead to big results.
 
 **Thanks for visiting my profile! 💜**
 
