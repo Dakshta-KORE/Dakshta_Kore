@@ -10,8 +10,8 @@
 *Turning ideas into projects, one commit at a time.*
 
 [GitHub](https://github.com/Dakshta-KORE) •
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/dakshta-kore-58a139328/) •
+[Email](mailto:dakshtakore@gmail.com)
 
 </div>
 
@@ -74,16 +74,31 @@ An application exploring collaboration between AI agents using a Streamlit inter
 - Exploring AI applications
 - Learning Git and contributing to open source
 
-## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
-- 🐙 GitHub: [@Dakshta-KORE](https://github.com/Dakshta-KORE)
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dakshta-kore-58a139328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Dakshta_kore/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:dakshtakore@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Dakshta-KORE">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
+💜 *Code • Learn • Build • Grow*
+
+</div>
 ### ✨ Small steps every day lead to big results.
 
 **Thanks for visiting my profile! 💜**
