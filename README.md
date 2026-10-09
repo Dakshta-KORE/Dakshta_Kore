@@ -1,64 +1,91 @@
-<h1 align="center">Hi 👋, I'm Dakshta Kore</h1>
-<h3 align="center">Data Science Student | Building AI-powered tools & data-driven solutions</h3>
+
+<div align="center">
+
+# 🌌 Hey, I'm Dakshta Kore!
+
+### CSE (Data Science) Student | Aspiring Developer
+
+💻 Code • Learn • Build • Grow
+
+*Turning ideas into projects, one commit at a time.*
+
+[GitHub](https://github.com/Dakshta-KORE) •
+[LinkedIn](YOUR_LINKEDIN_URL) •
+[Email](mailto:YOUR_EMAIL)
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 3rd year **B.Tech CSE (Data Science)** student at **Shri Shankaracharya Institute of Professional Management and Technology**
-- 📊 Passionate about turning raw data into clear, actionable insights — with a strong eye for design and presentation
-- 🚀 Marketing & Design Lead at **AWS Student Builder** (core team member)
-- 🛠️ Building projects at the intersection of AI agents, data analysis, and practical tooling
-- 🌱 Currently sharpening SQL, cloud (AWS), and applied ML skills for a Data Science/Analytics internship
-- 📫 Reach me at **dakshtakore@gmail.com**
+- 🎓 3rd-year B.Tech CSE (Data Science) student
+- 💡 Interested in software development, AI, and machine learning
+- ☁️ AWS Student Builder Group — Marketing & Design Lead
+- 🏀 Division-level inter-college basketball runner-up
+- 🌱 Learning DSA, improving my coding skills, and building projects
+- 🎯 Goal: Create useful projects and contribute to open source
+
+## 🛠️ Tech Stack
+
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Data Science & Tools**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge)
+
+## 🚀 Featured Projects
+
+### 🏡 Airbnb Price Prediction
+A machine learning project to predict Airbnb listing prices with an interactive Streamlit interface.
+
+**Tech:** Python, Pandas, Scikit-learn, Streamlit
+
+### 🤖 Multi-Agent Workspace
+An application exploring collaboration between AI agents using a Streamlit interface and Gemini API.
+
+**Tech:** Python, Streamlit, Gemini API
+
+> Replace these descriptions with the actual features of your completed projects and link each project to its repository.
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dakshta-KORE&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshta-KORE&layout=compact&theme=tokyonight&hide_border=true)
+
+![Contribution Streak](https://streak-stats.demolab.com?user=Dakshta-KORE&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🎯 Currently Focusing On
+
+- Solving DSA problems in C++
+- Improving Java and Python
+- Building machine learning projects
+- Exploring AI applications
+- Learning Git and contributing to open source
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 📧 Email: YOUR_EMAIL
+- 🐙 GitHub: [@Dakshta-KORE](https://github.com/Dakshta-KORE)
 
 ---
 
-### 🧰 Skills
+<div align="center">
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### ✨ Small steps every day lead to big results.
 
-**Data & Analytics**
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+**Thanks for visiting my profile! 💜**
 
-**Other**
-- Data Structures & Algorithms (strong theoretical foundation)
-- Data Visualization & Data Analysis
-- AI Agent workflows (CrewAI), local LLMs (Llama 3.2)
-- AWS fundamentals (S3, IAM)
-
----
-
-### 📜 Certifications
-
-- ✅ SQL for Data Analytics — *L&T EduTech*
-- ✅ Data Visualization Techniques — *L&T EduTech*
-- ✅ Excel for Data Analysis — *L&T EduTech*
-- ✅ Python for Data Analytics — *L&T EduTech*
-- ✅ Fundamentals of Data Analytics (Intermediate) — *L&T EduTech*
-
----
-
-### 🚧 Featured Projects
-
-- **Multi-Agent Data Science Auto-Pilot Workspace** — A local AI-powered data science app (Python, Streamlit, CrewAI, Llama 3.2:1B, Pandas, Plotly) where a Statistician Agent and Coder Agent collaborate to turn natural-language instructions into safe, sandboxed, visualized analysis.
-- **CLI Data Transformer** — A Pandas + CLI tool for converting scientific data units and formats, built for researchers exchanging datasets.
-
-*(Pin these repos on your profile once pushed!)*
-
----
-
-### 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshta-kore-58a139328)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dakshtakore@gmail.com)
-
----
-
-<p align="center"><i>Open to Data Science / Data Analyst internship opportunities 🚀</i></p>
+</div>
