@@ -1,10 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="360" viewBox="0 0 1500 360">
-<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05091a"/><stop offset=".5" stop-color="#251044"/><stop offset="1" stop-color="#06344b"/></linearGradient><radialGradient id="glow"><stop stop-color="#a855f7" stop-opacity=".75"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient><linearGradient id="mount" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#26345f"/><stop offset="1" stop-color="#080f22"/></linearGradient></defs>
-<rect width="1500" height="360" rx="18" fill="url(#sky)"/><ellipse cx="1100" cy="125" rx="350" ry="170" fill="url(#glow)"/>
-<g fill="#eef2ff" opacity=".9"><circle cx="800" cy="43" r="2"/><circle cx="850" cy="75" r="1.3"/><circle cx="920" cy="28" r="1.5"/><circle cx="985" cy="60" r="1.2"/><circle cx="1055" cy="29" r="1.5"/><circle cx="1125" cy="53" r="1.2"/><circle cx="1180" cy="35" r="1.5"/><circle cx="1255" cy="74" r="1.1"/><circle cx="1320" cy="37" r="1.8"/><circle cx="1400" cy="61" r="1.3"/><circle cx="1460" cy="34" r="1.2"/><circle cx="870" cy="123" r="1.4"/><circle cx="955" cy="104" r="1.1"/><circle cx="1080" cy="92" r="1.2"/><circle cx="1215" cy="120" r="1.4"/><circle cx="1380" cy="105" r="1.1"/></g>
-<path d="M780 282 900 202 955 226 1050 132 1105 190 1182 115 1260 210 1325 164 1410 238 1500 190 1500 360 780 360Z" fill="#192344"/><path d="M820 308 930 245 1000 268 1090 204 1160 255 1240 184 1310 260 1385 220 1500 284 1500 360 820 360Z" fill="url(#mount)"/><path d="M790 333 940 290 1050 319 1185 273 1310 315 1420 285 1500 307 1500 360 790 360Z" fill="#070d1c"/>
-<g fill="#050814"><path d="M1127 235Q1118 212 1126 190Q1131 177 1146 182Q1159 188 1157 207L1150 227Z"/><path d="M1129 207 1098 233 1122 243 1146 226 1167 243 1198 244 1197 234 1163 225 1152 207Z"/><path d="M1121 239 1090 250 1055 249 1053 258 1099 265 1132 254Z"/><path d="M1151 240 1176 257 1206 260 1208 269 1168 268 1139 254Z"/></g>
-<path d="M62 35V325M62 35H89M62 325H89" stroke="#67e8f9" stroke-width="2" opacity=".8" fill="none"/>
-<text x="105" y="131" fill="#fff" font-family="cursive" font-size="70" font-style="italic">Dakshta Kore</text><path d="M108 148Q265 162 410 143" stroke="#c4b5fd" stroke-width="2.4" fill="none"/>
-<text x="108" y="199" fill="#e5e7eb" font-family="Arial,sans-serif" font-size="24" letter-spacing="2">CSE (DATA SCIENCE) | AI &amp; ML</text><text x="108" y="244" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="14" letter-spacing="5">C O D E  •  L E A R N  •  B U I L D  •  G R O W</text>
-<g fill="#ddd6fe" font-family="cursive" font-size="27" font-style="italic" text-anchor="middle"><text x="1420" y="96">Better</text><text x="1420" y="128">Code</text><text x="1420" y="160">Bigger</text><text x="1420" y="192">Dreams ♥</text></g><rect x="1" y="1" width="1498" height="358" rx="18" fill="none" stroke="#334155" stroke-opacity=".8"/></svg>
+<defs>
+ <linearGradient id="night" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#050817"/><stop offset=".38" stop-color="#17123f"/><stop offset=".68" stop-color="#44246b"/><stop offset="1" stop-color="#071a32"/></linearGradient>
+ <radialGradient id="violet"><stop stop-color="#9d4edd" stop-opacity=".78"/><stop offset="1" stop-color="#5b21b6" stop-opacity="0"/></radialGradient>
+ <linearGradient id="mountain" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#26345e"/><stop offset="1" stop-color="#0a1025"/></linearGradient>
+ <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".8"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1500" height="360" rx="18" fill="url(#night)"/>
+<ellipse cx="1110" cy="120" rx="420" ry="185" fill="url(#violet)"/>
+<!-- stars -->
+<g fill="#e9e8ff">
+ <circle cx="760" cy="40" r="1.7"/><circle cx="814" cy="85" r="1.1"/><circle cx="858" cy="32" r="1.3"/><circle cx="905" cy="58" r="1.8"/><circle cx="956" cy="25" r="1.2"/><circle cx="1004" cy="79" r="1.4"/><circle cx="1060" cy="36" r="1.7"/><circle cx="1102" cy="64" r="1.1"/><circle cx="1154" cy="27" r="1.3"/><circle cx="1200" cy="54" r="1.8"/><circle cx="1252" cy="34" r="1.2"/><circle cx="1307" cy="74" r="1.6"/><circle cx="1361" cy="38" r="1.2"/><circle cx="1424" cy="61" r="1.7"/><circle cx="1470" cy="32" r="1.1"/><circle cx="785" cy="128" r="1.1"/><circle cx="885" cy="111" r="1.2"/><circle cx="974" cy="125" r="1.4"/><circle cx="1084" cy="105" r="1.1"/><circle cx="1204" cy="119" r="1.2"/><circle cx="1324" cy="108" r="1.4"/><circle cx="1437" cy="139" r="1.1"/>
+</g>
+<!-- shooting star -->
+<path d="M1230 24 Q1170 50 1108 93" stroke="#c4b5fd" stroke-width="2" opacity=".9" fill="none"/><path d="M1230 24 L1192 44" stroke="#fff" stroke-width="1" opacity=".8"/>
+<!-- distant peaks -->
+<path d="M730 277 L830 214 L884 235 L973 157 L1037 211 L1128 130 L1204 206 L1285 156 L1365 222 L1437 176 L1500 212 L1500 360 L730 360Z" fill="#1b2348"/>
+<path d="M760 304 L860 253 L936 278 L1030 207 L1094 254 L1174 185 L1250 258 L1328 209 L1402 268 L1474 235 L1500 253 L1500 360 L760 360Z" fill="url(#mountain)"/>
+<path d="M760 328 L908 290 L1008 316 L1124 277 L1224 314 L1335 278 L1440 310 L1500 294 L1500 360 L760 360Z" fill="#080e20"/>
+<path d="M785 333 Q1000 314 1150 333 T1500 326" stroke="url(#mist)" stroke-width="3" fill="none" opacity=".8"/>
+<!-- seated explorer silhouette on ridge -->
+<g fill="#040713">
+ <path d="M1110 229 Q1104 211 1110 191 Q1116 176 1130 181 Q1144 187 1141 205 L1134 224Z"/>
+ <path d="M1114 207 Q1094 213 1084 231 L1107 242 L1131 224 L1151 241 L1181 244 L1184 234 L1152 222 L1139 204Z"/>
+ <path d="M1108 237 L1077 249 L1049 248 L1046 258 L1086 265 L1120 253Z"/>
+ <path d="M1138 237 L1162 254 L1192 258 L1195 267 L1156 266 L1128 252Z"/>
+ <path d="M1110 190 Q1118 174 1132 181 L1142 193 L1138 207 L1118 208Z"/>
+ <path d="M1114 193 L1103 211 L1111 228 L1121 224 L1123 203Z" fill="#10152d"/>
+</g>
+<!-- title block -->
+<path d="M58 34 V326 M58 34 H86 M58 326 H86" stroke="#67e8f9" stroke-width="2" opacity=".85" fill="none"/>
+<text x="105" y="132" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="69" font-style="italic">Dakshta Kore</text>
+<path d="M108 148 Q266 160 423 143" stroke="#c4b5fd" stroke-width="2.4" fill="none"/>
+<text x="108" y="198" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="2">CSE (DATA SCIENCE)  |  AI &amp; ML</text>
+<text x="108" y="244" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">C O D E   •   L E A R N   •   B U I L D   •   G R O W</text>
+<g fill="#e9ddff" font-family="Georgia, serif" font-size="26" font-style="italic" text-anchor="middle"><text x="1410" y="91">Better</text><text x="1410" y="122">Code</text><text x="1410" y="153">Bigger</text><text x="1410" y="184">Dreams ♥</text></g>
+<rect x="1" y="1" width="1498" height="358" rx="18" fill="none" stroke="#4c4b7b" stroke-opacity=".8"/>
+</svg>
