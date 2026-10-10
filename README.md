@@ -1,119 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:4338CA,100:0891B2&height=210&section=header&text=Dakshta%20Kore&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20%7C%20DATA%20SCIENCE%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=16" width="100%" alt="Dakshta Kore — CSE Data Science, AI and ML" >
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:312E81,100:0891B2&height=190&section=header&text=Dakshta%20Kore&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20DATA%20SCIENCE&descAlignY=65&descSize=16" width="100%" alt="Dakshta Kore — Computer Science and Data Science" />
 
-### CSE (Data Science) Student · Aspiring Software Developer
+### Computer Science & Engineering (Data Science) · Student Developer
 
-**Code. Learn. Build. Grow.**
+Building practical projects in software, data science, and AI — one step at a time.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshta-kore-58a139328/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dakshta_kore/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshtakore@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dakshta-KORE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshta-kore-58a139328/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dakshta_kore/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dakshtakore@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dakshta-KORE)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm a third-year B.Tech student in **Computer Science & Engineering (Data Science)**, interested in building practical software and exploring AI and machine learning.
+I'm a third-year B.Tech student pursuing **Computer Science & Engineering (Data Science)** at **Shri Shankaracharya Institute of Professional Management and Technology, Raipur**. I enjoy solving programming problems and building hands-on projects while developing my skills in Python, Java, data science, and AI.
 
-- 🎓 Studying CSE (Data Science) at Shri Shankaracharya Institute of Professional Management and Technology
-- 🧠 Practising data structures and algorithms in C++
-- 🤖 Building projects in machine learning and AI
-- ☁️ AWS Student Builder Group — Marketing & Design Lead
+- 🎓 B.Tech CSE (Data Science), third year
+- 💡 Practising data structures and algorithms in C++
+- 🤖 Exploring machine learning and AI through projects
+- ☁️ Marketing & Design Lead, AWS Student Builder Group
 - 🏀 Division-level inter-college basketball runner-up
-- 🌱 Always learning, experimenting, and improving
 
-## 💻 Tech Stack
+## Skills & Tools
 
 <div align="center">
 
-**LANGUAGES**
+**Languages**
 
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-Learning-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![C++](https://img.shields.io/badge/C%2B%2B-1E293B?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL%20(basics)-1E293B?style=flat-square&logo=mysql&logoColor=4479A1)
 
-**DATA SCIENCE & TOOLS**
+**Data Science & Development**
 
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243)
-![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![Streamlit](https://img.shields.io/badge/Streamlit-Exploring-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Pandas](https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=013243)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E293B?style=flat-square&logo=jupyter&logoColor=F37626)
+![Streamlit](https://img.shields.io/badge/Streamlit-Exploring-1E293B?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Git](https://img.shields.io/badge/Git-Learning-1E293B?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🧹 Data Cleaning
-
-Exploring automated data-cleaning workflows and practical data preparation.
-
-[**View repository →**](https://github.com/Dakshta-KORE/Data-cleaning)
-
-</td>
-<td width="50%">
-
-### 🤖 Multi-Agent Workspace
-
-An AI multi-agent application built around a Streamlit interface and Gemini API.
-
-[**View repository →**](https://github.com/Dakshta-KORE/Multi_AI_Agent)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🏡 Airbnb Price Prediction
-
-A machine-learning project focused on predicting Airbnb listing prices, with an interactive Streamlit interface.
-
-**Tools:** Python · Pandas · Scikit-learn · Streamlit
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏡 Airbnb Price Prediction</h3>
+      A machine-learning project to estimate Airbnb listing prices, with an interactive Streamlit interface.
+      <br/><br/>
+      <sub>Python · Pandas · Scikit-learn · Streamlit</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Multi-Agent Workspace</h3>
+      A Streamlit-based workspace exploring collaboration between AI agents using the Gemini API.
+      <br/><br/>
+      <sub>Python · Streamlit · Gemini API</sub>
+      <br/><br/>
+      <a href="https://github.com/Dakshta-KORE/Multi_AI_Agent">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧹 Data Cleaning</h3>
+      A project focused on data preparation and cleaning workflows.
+      <br/><br/>
+      <a href="https://github.com/Dakshta-KORE/Data-cleaning">View repository →</a>
+    </td>
+  </tr>
 </table>
 
-## 📈 GitHub Overview
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dakshta-KORE&show_icons=true&hide_border=true&bg_color=0B1026&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshta-KORE&layout=compact&hide_border=true&bg_color=0B1026&title_color=A78BFA&text_color=E5E7EB" alt="Most used languages" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dakshta-KORE&theme=transparent&hide_border=true&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dakshta-KORE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshta-KORE&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
 
-## 🎯 What I'm Working On
+## Currently Focused On
 
-- Strengthening DSA and problem-solving with C++
-- Improving Python and Java
-- Developing practical machine-learning and AI projects
-- Learning Git and open-source collaboration
+- Improving problem-solving and DSA with C++
+- Building practical Python and machine-learning projects
+- Strengthening Java, SQL, and Git fundamentals
+- Learning through experimentation and collaboration
 
-## 🌐 Find Me Online
+---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dakshta--kore-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dakshta-kore-58a139328/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Dakshta__kore-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dakshta_kore/)
-[![Gmail](https://img.shields.io/badge/Email-dakshtakore%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dakshtakore@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Dakshta--KORE-181717?style=flat-square&logo=github)](https://github.com/Dakshta-KORE)
-
-<br/>
 
 *“Small steps every day lead to big results.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:4338CA,100:0B1026&height=100&section=footer" width="100%" alt="" />
+<sub>Thanks for visiting my profile — feel free to connect!</sub>
 
 </div>
