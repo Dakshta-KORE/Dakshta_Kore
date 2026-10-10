@@ -27,52 +27,75 @@ I'm a third-year B.Tech student pursuing **Computer Science & Engineering (Data 
 
 ## Skills & Tools
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-1E293B?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL%20(basics)-1E293B?style=flat-square&logo=mysql&logoColor=4479A1)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=67E8F9)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=60A5FA)
 
-**Data Science & Development**
+</td>
+<td width="34%" valign="top">
 
-![Pandas](https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=013243)
-![Jupyter](https://img.shields.io/badge/Jupyter-1E293B?style=flat-square&logo=jupyter&logoColor=F37626)
-![Streamlit](https://img.shields.io/badge/Streamlit-Exploring-1E293B?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![Git](https://img.shields.io/badge/Git-Learning-1E293B?style=flat-square&logo=git&logoColor=F05032)
+**Data Science**
 
-</div>
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=A78BFA)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=67E8F9)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=FBBF24)
+
+</td>
+<td width="33%" valign="top">
+
+**Tools & Other**
+
+![SQL basics](https://img.shields.io/badge/SQL%20Basics-111827?style=flat-square&logo=mysql&logoColor=67E8F9)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F97316)
+![Streamlit](https://img.shields.io/badge/Streamlit-Exploring-111827?style=flat-square&logo=streamlit&logoColor=FB7185)
+![Git](https://img.shields.io/badge/Git-Learning-111827?style=flat-square&logo=git&logoColor=F97316)
+
+</td>
+</tr>
+</table>
 
 ## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏡 Airbnb Price Prediction</h3>
-      A machine-learning project to estimate Airbnb listing prices, with an interactive Streamlit interface.
-      <br/><br/>
-      <sub>Python · Pandas · Scikit-learn · Streamlit</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Multi-Agent Workspace</h3>
-      A Streamlit-based workspace exploring collaboration between AI agents using the Gemini API.
-      <br/><br/>
-      <sub>Python · Streamlit · Gemini API</sub>
-      <br/><br/>
-      <a href="https://github.com/Dakshta-KORE/Multi_AI_Agent">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🧹 Data Cleaning</h3>
-      A project focused on data preparation and cleaning workflows.
-      <br/><br/>
-      <a href="https://github.com/Dakshta-KORE/Data-cleaning">View repository →</a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🏡 Airbnb Price Prediction
+
+Predicting Airbnb listing prices with a machine-learning workflow and interactive Streamlit interface.
+
+<sub>Python · Pandas · Scikit-learn · Streamlit</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Multi-Agent Workspace
+
+A Streamlit workspace exploring collaboration between AI agents using the Gemini API.
+
+<sub>Python · Streamlit · Gemini API</sub>
+
+[View repository →](https://github.com/Dakshta-KORE/Multi_AI_Agent)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧹 Data Cleaning
+
+A project focused on data preparation and cleaning workflows.
+
+<sub>Data preparation · Python</sub>
+
+[View repository →](https://github.com/Dakshta-KORE/Data-cleaning)
+
+</td>
+</tr>
 </table>
 
 ## GitHub Activity
