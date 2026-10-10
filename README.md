@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:312E81,100:0891B2&height=190&section=header&text=Dakshta%20Kore&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20DATA%20SCIENCE&descAlignY=65&descSize=16" width="100%" alt="Dakshta Kore — Computer Science and Data Science" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Dakshta Kore — Computer Science and Data Science" />
 
 ### Computer Science & Engineering (Data Science) · Student Developer
 
