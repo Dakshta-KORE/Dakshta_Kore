@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:4338CA,100:0891B2&height=210&section=header&text=Dakshta%20Kore&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20%7C%20DATA%20SCIENCE%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=16" width="100%" alt="Dakshta Kore — CSE Data Science, AI and ML" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:4338CA,100:0891B2&height=210&section=header&text=Dakshta%20Kore&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20%7C%20DATA%20SCIENCE%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=16" width="100%" alt="Dakshta Kore — CSE Data Science, AI and ML" >
 
 ### CSE (Data Science) Student · Aspiring Software Developer
 
